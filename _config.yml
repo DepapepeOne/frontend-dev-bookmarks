@@ -1,0 +1,8 @@
+title: Frontend Development Bookmarks
+description: A huge, community supported list of resources for frontend developers.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
